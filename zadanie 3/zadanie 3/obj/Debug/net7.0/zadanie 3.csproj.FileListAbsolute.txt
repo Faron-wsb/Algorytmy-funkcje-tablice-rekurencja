@@ -1,0 +1,5 @@
+E:\Desktop\infa szkoła\projekty\Algorytmy – funkcje, tablice, rekurencja\zadanie 3\zadanie 3\obj\Debug\net7.0\zadanie 3.csproj.AssemblyReference.cache
+E:\Desktop\infa szkoła\projekty\Algorytmy – funkcje, tablice, rekurencja\zadanie 3\zadanie 3\obj\Debug\net7.0\zadanie 3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\infa szkoła\projekty\Algorytmy – funkcje, tablice, rekurencja\zadanie 3\zadanie 3\obj\Debug\net7.0\zadanie 3.AssemblyInfoInputs.cache
+E:\Desktop\infa szkoła\projekty\Algorytmy – funkcje, tablice, rekurencja\zadanie 3\zadanie 3\obj\Debug\net7.0\zadanie 3.AssemblyInfo.cs
+E:\Desktop\infa szkoła\projekty\Algorytmy – funkcje, tablice, rekurencja\zadanie 3\zadanie 3\obj\Debug\net7.0\zadanie 3.csproj.CoreCompileInputs.cache
